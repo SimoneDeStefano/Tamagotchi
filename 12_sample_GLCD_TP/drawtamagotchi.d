@@ -1,0 +1,16 @@
+.\drawtamagotchi.o: drawTamagotchi.c
+.\drawtamagotchi.o: drawTamagotchi.h
+.\drawtamagotchi.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\drawtamagotchi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h
+.\drawtamagotchi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\drawtamagotchi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+.\drawtamagotchi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+.\drawtamagotchi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+.\drawtamagotchi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h
+.\drawtamagotchi.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\drawtamagotchi.o: GLCD/GLCD.h
+.\drawtamagotchi.o: TouchPanel/TouchPanel.h
+.\drawtamagotchi.o: timer/timer.h
+.\drawtamagotchi.o: RIT/RIT.h
+.\drawtamagotchi.o: joystick/joystick.h
+.\drawtamagotchi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
